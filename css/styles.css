@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background: white;
+    color: black;
+}
+
+.header {
+    background: linear-gradient(145deg, #023373, #0044cc);
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.header h1 {
+    color: #afc8e9;
+    font-size: 2.3em;
+    margin-bottom: 10px;
+}
+
+.header p {
+    font-size: 1em;
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+
+.content {
+    padding: 50px 10%;
+}
+
+section {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    margin-bottom: 60px;
+    border-bottom: 2px solid #0a3d91;
+    padding-bottom: 40px;
+}
+
+.icon-circle {
+    min-width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 2rem;
+}
+
+.circulo {
+    background: linear-gradient(145deg, #023373, #0044cc);
+}
+
+.circulo1 {
+    background: linear-gradient(145deg, #023373, #0044cc);
+}
+
+.circulo2 {
+    background: linear-gradient(145deg, #023373, #0044cc);
+}
+
+.circulo3 {
+    background: linear-gradient(145deg, #023373, #0044cc);
+}
+
+.text h2 {
+    color: #0455BF;
+    font-size: 1.3rem;
+    margin-top: 0;
+}
+
+.text ul {
+    margin: 10px 0 0 20px;
+}
+
+.text p {
+    margin-top: 10px;
+    line-height: 1.6;
+}
+
